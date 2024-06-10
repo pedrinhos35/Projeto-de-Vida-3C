@@ -37,4 +37,10 @@ color:var(--verde);
     background-color: var(--botao-inativo);
 color: var(--branco);  
 display: frex; 
+justify-self: center;
+padding: 1em;
+font: size 18px;
+align-itens: center;
+width: 100%;
+
 }
