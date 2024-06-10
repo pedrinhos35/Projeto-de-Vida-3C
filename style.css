@@ -26,4 +26,15 @@ body{
     text-align: left;
     width: 100%;  
     font-size: 32px; 
+} 
+
+.titulo-principal samp
+color:var(--verde);
+}
+
+.botao-{
+    font-family: "chakra petch" sans-serif
+    background-color: var(--botao-inativo);
+color: var(--branco);  
+display: frex; 
 }
